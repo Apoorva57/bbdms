@@ -125,37 +125,14 @@ $totalreuqests=$query6->rowCount();
 													<div class="stat-panel-title text-uppercase">Total Blood Request Received</div>
 												</div>
 											</div>
-											<a href="requests-received.php" class="block-anchor panel-footer text-center">Full Detail &nbsp; <i class="fa fa-arrow-right"></i></a>
+											<a href="blood-requests.php" class="block-anchor panel-footer text-center">Full Detail &nbsp; <i class="fa fa-arrow-right"></i></a>
 										</div>
-									</div>
-
-
-
-
-
-
-
-
-
-
-							
+									</div>							
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-
-
-
-
-
-
-
-
-
-
-
-
 			</div>
 		</div>
 	</div>
